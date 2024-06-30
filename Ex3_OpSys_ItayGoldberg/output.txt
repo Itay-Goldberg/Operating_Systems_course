@@ -1,0 +1,38 @@
+C:\Users\05ita\AppData\Local\Programs\Python\Python310\python.exe C:\Users\05ita\Desktop\code_files\py_files\op_sys\ex3\main.py 
+ * * Results for input1.txt * *
+FCFS: mean turnaround = 17.25
+LCFS_NP: mean turnaround = 19.25
+LCFS_P: mean turnaround = 20.0
+Round Robin: mean turnaround = 24.5
+SJF: mean turnaround = 16.75
+
+ * * Results for input2.txt * *
+FCFS: mean turnaround = 28.125
+LCFS_NP: mean turnaround = 30.125
+LCFS_P: mean turnaround = 30.75
+Round Robin: mean turnaround = 34.625
+SJF: mean turnaround = 21.625
+
+ * * Results for input3.txt * *
+FCFS: mean turnaround = 11.5
+LCFS_NP: mean turnaround = 11.5
+LCFS_P: mean turnaround = 11.5
+Round Robin: mean turnaround = 11.5
+SJF: mean turnaround = 11.5
+
+ * * Results for input4.txt * *
+FCFS: mean turnaround = 14.0
+LCFS_NP: mean turnaround = 14.75
+LCFS_P: mean turnaround = 17.25
+Round Robin: mean turnaround = 24.75
+SJF: mean turnaround = 14.0
+
+ * * Results for input5.txt * *
+FCFS: mean turnaround = 6.0
+LCFS_NP: mean turnaround = 6.0
+LCFS_P: mean turnaround = 6.5
+Round Robin: mean turnaround = 7.25
+SJF: mean turnaround = 6.0
+
+
+Process finished with exit code 0
